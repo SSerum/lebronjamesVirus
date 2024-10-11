@@ -1,7 +1,7 @@
 import webbrowser
 import time
 
-url = 'http://your-url-here.com'
+url = 'https://www.youtube.com/shorts/ZeIr0FVJwGs'
 
 def open_tab():
     webbrowser.open(url)
