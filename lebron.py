@@ -8,4 +8,4 @@ def open_tab():
 
 while True:
     open_tab()
-    time.sleep(5)  # Wait a few seconds to simulate user closing the tab
+    time.sleep(1)  # Wait a few seconds to simulate user closing the tab
